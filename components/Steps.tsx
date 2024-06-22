@@ -16,7 +16,7 @@ const STEPS = [
     },
     {
         name:"Step 3: Summary",
-        description:"review yyour final design",
+        description:"review your final design",
         url: '/preview'
     }
 ]

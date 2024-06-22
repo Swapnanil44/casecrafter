@@ -256,8 +256,8 @@ export default function Home() {
               <Link className={buttonVariants({
                 size: 'lg',
                 className:"mx-auto mt-8"
-              })} href={'/cofigure/upload'}>
-              Create Yoiur case now <ArrowRight className="h-4 w-4 ml-1.5"/>
+              })} href={'/configure/upload'}>
+              Create Your case now <ArrowRight className="h-4 w-4 ml-1.5"/>
               </Link>
             </div>
           </ul>
